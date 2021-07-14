@@ -2,7 +2,7 @@ import smtplib
 
 username = 'iamgunalan10@gmail.com'
 
-password = 'Guna19@NMC'
+password = 'abc'
 
 sender = 'iamgunalan10@gmail.com'
 receivers = ['iamgunalan10@gmail.com']
