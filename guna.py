@@ -4,7 +4,7 @@ from email.mime.multipart import MIMEMultipart
 
 username = 'iamgunalan10@gmail.com'
 
-password = 'Guna19@NMC'
+password = 'abc'
 def send_mail(text = "email body",from_mail = 'GUNA D <iamgunalan10@gmail.com>' ,sub = "hello world" , to_email = 'iamgunalan10@gmail.com'):
 	msg = MIMEMultipart('alternative')
 	msg['From'] = from_mail
